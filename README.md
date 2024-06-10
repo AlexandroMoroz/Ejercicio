@@ -2,7 +2,7 @@
 
 <h1>Consigna a resolver:</h1>
 
-Crear un programa cuyo punto de entrada sea un main en donde, al ejecutarse, se visualiza lo siguiente por consola y se termina la ejecución:
+<h2>Crear un programa cuyo punto de entrada sea un main en donde, al ejecutarse, se visualiza lo siguiente por consola y se termina la ejecución:</h2>
 
 Nombre: Coca-Cola Zero /// Litros: 1.5 /// Precio: $20
 
